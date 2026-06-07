@@ -46,3 +46,7 @@ Currently building projects, learning DSA in Java, and exploring full-stack deve
 - Learn System Design Fundamentals
 - Build Full Stack Projects
 - Become a Software Engineer
+
+## Connect
+LinkedIn: https://linkedin.com/in/vaikunthprajapati
+GitHub: https://github.com/vaikunthprajapati
