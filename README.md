@@ -1,3 +1,5 @@
+<img src="banner.png" width="100%">
+
 # Hi, I'm Vaikunth Prajapati 👋
 
 Computer Science Student passionate about software development, problem solving and building real-world projects.
