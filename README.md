@@ -1,12 +1,19 @@
 <img src="banner.png" width="100%">
 
-# Hi, I'm Vaikunth Prajapati 👋
+## Hi, I'm Vaikunth Prajapati 👋
 
-Computer Science Undergraduate (2027) passionate about software development, backend engineering, problem solving, and building real-world applications.
+I'm a Computer Science undergraduate (2027) who enjoys turning ideas into working software — whether that's a full backend system, an AI-powered application, or a well-structured full-stack project.
 
-Currently focused on Java, Data Structures & Algorithms, Backend Development, and Full-Stack Engineering while continuously building projects and strengthening software engineering fundamentals.
+Currently focused on Java, DSA, Backend Development, and MERN Stack while continuously building projects and improving software engineering fundamentals.
 
 ---
+
+## Looking To Collaborate On
+
+- Open Source Projects
+- Full Stack Applications
+- Backend Systems
+- AI-Powered Tools
 
 ## Tech Stack
 
