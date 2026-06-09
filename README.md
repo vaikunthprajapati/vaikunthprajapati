@@ -96,73 +96,6 @@ vaikunth = {
 
 ---
 
-## 🏆 GitHub Trophies
-
-
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaikunthprajapati&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-
-
----
-
-## 📈 Contribution Graph
-
-
-
-
-[![Vaikunth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaikunthprajapati&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
-
-
----
-
-## 🐍 Contribution Snake
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
----
-
-## 🎯 Currently Working On
-
-- 🔨 Deploying **VanVrindha** and **CREVR Studio** to production
-- 📚 Mastering **Java DSA** — daily commits to [dsa-java](https://github.com/vaikunthprajapati/dsa-java)
-- ⚛️ Learning **React.js** → building full MERN stack
-- 🧩 Solving **LeetCode** daily
-
----
-
-## 📫 Let's Connect
-
-
-
-
-📧 vaikunthprajapati2005@gmail.com  |  📍 Bhopal, India
-
-*Open to Software Engineering Internships and Placement Opportunities (2026–2027)*
-
-
-
-
----
-
-
-
-⭐ If you find my projects interesting, drop a star — it means a lot!
-
 ## Hi, I'm Vaikunth Prajapati 👋
 
 I'm a Computer Science undergraduate (2027) who enjoys turning ideas into working software — whether that's a full backend system, an AI-powered application, or a well-structured full-stack project.
@@ -228,6 +161,7 @@ Currently focused on Java, DSA, Backend Development, and MERN Stack while contin
 ---
 
 ## Featured Projects
+⭐ If you find my projects interesting, drop a star — it means a lot!
 
 ### 🌿 VanVrindha
 Django + MySQL E-Commerce Platform featuring authentication, product management, cart system, order workflow, admin panel, Service Layer architecture, and Repository Pattern.
