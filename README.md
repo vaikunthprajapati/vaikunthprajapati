@@ -127,7 +127,7 @@ Frontend website clone focused on responsive UI development and modern web desig
 [www.linkedin.com/in/vaikunthprajapati](http://www.linkedin.com/in/vaikunthprajapati)
 
 **GitHub:**
-github.com/vaikunthprajapati
+https://github.com/vaikunthprajapati
 
 ---
 
