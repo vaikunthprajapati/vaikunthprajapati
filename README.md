@@ -29,10 +29,6 @@ vaikunth = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=vaikunthprajapati&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
----
-
-## Hi, I'm Vaikunth Prajapati 👋
-
 I'm a Computer Science undergraduate (2027) who enjoys turning ideas into working software — whether that's a full backend system, an AI-powered application, or a well-structured full-stack project.
 
 Currently focused on Java, DSA, Backend Development, and MERN Stack while continuously building projects and improving software engineering fundamentals.
