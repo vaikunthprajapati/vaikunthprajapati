@@ -27,54 +27,6 @@ vaikunth = {
 }
 ```
 
----
-
-## 🚀 Projects
-
-| Project | Stack | Description | Live |
-|---|---|---|---|
-| [VanVrindha](https://github.com/vaikunthprajapati/Vanvrindha) | Django · MySQL · JS | Full-stack e-commerce with Service Layer + Repo Pattern | [🔗 Live](https://vanvrindha.up.railway.app) |
-| [CREVR Studio](https://github.com/vaikunthprajapati/crevr-studio) | Django · OpenCV · NumPy | Browser-based image processing — 10 CV operations | [🔗 Live](#) |
-| [AI Financial Advisor](https://github.com/vaikunthprajapati/ai-financial-advisor) | Python · Streamlit · Gemini API | Generative AI financial assistant | [🔗 Live](#) |
-| [Java Banking System](https://github.com/vaikunthprajapati/java-banking-system) | Java · OOP | Console banking app — full OOP principles | — |
-| [DSA in Java](https://github.com/vaikunthprajapati/dsa-java) | Java | 300+ solutions — Arrays, Trees, Graphs, DP | — |
-
----
-
-## 🛠️ Tech Stack
-
-
-
-
-**Languages**
-
-
-
-**Backend & Frameworks**
-
-
-
-**Frontend**
-
-
-
-**Databases**
-
-
-
-**AI / Data**
-
-
-
-**Tools**
-
-
-
-
-
-
----
-
 ## 📊 GitHub Stats
 
 
