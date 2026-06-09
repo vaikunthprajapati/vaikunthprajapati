@@ -1,5 +1,3 @@
-<img src="banner.png" width="100%">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2¢er=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B+I'm+Vaikunth+Prajapati;Computer+Science+Undergrad+%40+LNCT+Bhopal;Backend+Developer+%7C+Java+%7C+Python+%7C+Django;Building+Real-World+Software+Projects;DSA+%7C+MERN+%7C+AI+Applications)](https://github.com/vaikunthprajapati)
 
 
