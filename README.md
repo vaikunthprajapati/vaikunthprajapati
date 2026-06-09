@@ -1,6 +1,6 @@
 <img src="banner.png" width="100%">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaikunthprajapati&show_icons=true)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Hi+I'm+Vaikunth+Prajapati;Computer+Science+Student;Java+Developer;Backend+Developer;DSA+Enthusiast;Building+Real-World+Projects)](https://git.io/typing-svg)
 
 ## Hi, I'm Vaikunth Prajapati 👋
 
