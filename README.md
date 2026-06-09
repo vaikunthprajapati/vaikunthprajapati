@@ -1,8 +1,167 @@
 <img src="banner.png" width="100%">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=0A66C2¢er=true&vCenter=true&width=1000&height=60&lines=Hi+%F0%9F%91%8B+I'm+Vaikunth+Prajapati;Computer+Science+Undergrad+%40+LNCT+Bhopal;Backend+Developer+%7C+Java+%7C+Python+%7C+Django;Building+Real-World+Software+Projects;DSA+%7C+MERN+%7C+AI+Applications)](https://github.com/vaikunthprajapati)
+
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaikunthprajapati)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaikunthprajapati)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaikunthprajapati.vercel.app)
+
+
+
+
+---
+
+## 🧑‍💻 About Me
+
+```python
+vaikunth = {
+    "name"       : "Vaikunth Prajapati",
+    "college"    : "LNCT Bhopal — B.Tech CSE (2027)",
+    "location"   : "Bhopal, Madhya Pradesh, India",
+    "focus"      : ["Backend Development", "Java DSA", "MERN Stack"],
+    "currently"  : "Building projects, solving DSA, getting placement-ready",
+    "open_to"    : "Software Engineering Internships & Placement Opportunities",
+    "fun_fact"   : "I debug better at midnight ☕"
+}
+```
+
+---
+
+## 🚀 Projects
+
+| Project | Stack | Description | Live |
+|---|---|---|---|
+| [VanVrindha](https://github.com/vaikunthprajapati/Vanvrindha) | Django · MySQL · JS | Full-stack e-commerce with Service Layer + Repo Pattern | [🔗 Live](https://vanvrindha.up.railway.app) |
+| [CREVR Studio](https://github.com/vaikunthprajapati/crevr-studio) | Django · OpenCV · NumPy | Browser-based image processing — 10 CV operations | [🔗 Live](#) |
+| [AI Financial Advisor](https://github.com/vaikunthprajapati/ai-financial-advisor) | Python · Streamlit · Gemini API | Generative AI financial assistant | [🔗 Live](#) |
+| [Java Banking System](https://github.com/vaikunthprajapati/java-banking-system) | Java · OOP | Console banking app — full OOP principles | — |
+| [DSA in Java](https://github.com/vaikunthprajapati/dsa-java) | Java | 300+ solutions — Arrays, Trees, Graphs, DP | — |
+
+---
+
+## 🛠️ Tech Stack
+
+
+
+
+**Languages**
+
+
+
+**Backend & Frameworks**
+
+
+
+**Frontend**
+
+
+
+**Databases**
+
+
+
+**AI / Data**
+
+
+
+**Tools**
+
+
+
+
+
+
+---
+
+## 📊 GitHub Stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=vaikunthprajapati&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+
+
+
+
+---
+
+## 🏆 GitHub Trophies
+
+
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaikunthprajapati&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+
+
+---
+
+## 📈 Contribution Graph
+
+
+
+
+[![Vaikunth's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaikunthprajapati&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+
+
+---
+
+## 🐍 Contribution Snake
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+---
+
+## 🎯 Currently Working On
+
+- 🔨 Deploying **VanVrindha** and **CREVR Studio** to production
+- 📚 Mastering **Java DSA** — daily commits to [dsa-java](https://github.com/vaikunthprajapati/dsa-java)
+- ⚛️ Learning **React.js** → building full MERN stack
+- 🧩 Solving **LeetCode** daily
+
+---
+
+## 📫 Let's Connect
+
+
+
+
+📧 vaikunthprajapati2005@gmail.com  |  📍 Bhopal, India
+
+*Open to Software Engineering Internships and Placement Opportunities (2026–2027)*
+
+
+
+
+---
+
+
+
+⭐ If you find my projects interesting, drop a star — it means a lot!
 
 ## Hi, I'm Vaikunth Prajapati 👋
 
