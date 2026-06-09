@@ -1,6 +1,6 @@
 <img src="banner.png" width="100%">
 
-![](https://komarev.com/ghpvc/?username=vaikunthprajapati)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaikunthprajapati&show_icons=true)
 
 ## Hi, I'm Vaikunth Prajapati 👋
 
