@@ -1,5 +1,9 @@
 <img src="banner.png" width="100%">
 
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,django,mysql,js,react,nodejs,mongodb,git,github,vscode"/>
+</p>
+
 ## Hi, I'm Vaikunth Prajapati 👋
 
 I'm a Computer Science undergraduate (2027) who enjoys turning ideas into working software — whether that's a full backend system, an AI-powered application, or a well-structured full-stack project.
