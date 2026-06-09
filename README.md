@@ -1,6 +1,8 @@
 <img src="banner.png" width="100%">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=0A66C2&center=true&vCenter=true&width=1000&lines=Hi+I'm+Vaikunth+Prajapati;Computer+Science+Student;Java+Developer;Backend+Developer;DSA+Enthusiast;Building+Real-World+Projects)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="250">
+</p>
 
 ## Hi, I'm Vaikunth Prajapati 👋
 
