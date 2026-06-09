@@ -1,8 +1,6 @@
 <img src="banner.png" width="100%">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,django,mysql,js,react,nodejs,mongodb,git,github,vscode"/>
-</p>
+![](https://komarev.com/ghpvc/?username=vaikunthprajapati)
 
 ## Hi, I'm Vaikunth Prajapati 👋
 
