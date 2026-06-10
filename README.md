@@ -7,10 +7,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://vaikunthprajapati.vercel.app)
 
 
+<img width="1440" height="1588" alt="image" src="https://github.com/user-attachments/assets/b13c8afb-2322-4c13-8c46-8daa682bc48b" />
+<div align="center">
 
-<img width="1440" height="1588" alt="image" src="https://github.com/user-attachments/assets/2bd97d00-dac4-4a1e-83c6-f0cbbf3e4d52" />
+<!-- Terminal intro -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=30&lines=~%2F%24+whoami;vaikunth+prajapati+--+backend+developer;~%2F%24+cat+skills.json;%7B+%22java%22%3A+%22%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86%22%2C+%22python%22%3A+%22%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86%22+%7D;~%2F%24+ls+projects%2F;vanvrindha%2F+crevr-studio%2F+ai-advisor%2F+dsa-java%2F;~%2F%24+echo+%22open+to+internships%22;open+to+internships+%E2%9C%93" alt="terminal" />
 
-
+</div>
 
 
 ---
